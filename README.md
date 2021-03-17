@@ -15,5 +15,5 @@ scripts used for the mitogenome paper of Cladoceran by Shao-Lin Xu
 
 
 # Reference
-1. <a name="myfootnote1">1</a> Lu, Jennifer, and Steven L. Salzberg. "SkewIT: The Skew Index Test for large-scale GC Skew analysis of bacterial genomes." PLoS computational biology 16.12 (2020): e1008439.
-2. <a name="myfootnote2">2</a> Schwentner, M., S. Richter, D. C. Rogers, and G. Giribet. 2018. Tetraconatan phylogeny with special focus on Malacostraca and Branchiopoda: highlighting the strength of taxon-specific matrices in phylogenomics. Proceedings of the Royal Society B: Biological Sciences 285:20181524.
+<a name="myfootnote1">1</a>: Lu, Jennifer, and Steven L. Salzberg. "SkewIT: The Skew Index Test for large-scale GC Skew analysis of bacterial genomes." PLoS computational biology 16.12 (2020): e1008439.
+<a name="myfootnote2">2</a>: Schwentner, M., S. Richter, D. C. Rogers, and G. Giribet. 2018. Tetraconatan phylogeny with special focus on Malacostraca and Branchiopoda: highlighting the strength of taxon-specific matrices in phylogenomics. Proceedings of the Royal Society B: Biological Sciences 285:20181524.
