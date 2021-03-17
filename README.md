@@ -3,9 +3,10 @@ scripts used for the mitogenome paper of Cladoceran by Shao-Lin Xu
 
 ## Script
 1. `code/iterative_metaspades_fishing.sh`: extend seed sequence by  iterative target assembly
-2. `code/gcskwew.py`: calculate compositional statistic of dna sequence (input as fasta format)
+    2. `code/readme.md`: readme file for `iterative_metaspades_fishing.sh`
+3. `code/gcskwew.py`: calculate compositional statistic of dna sequence (input as fasta format)
     1. this script was modified from [SKewIT](https://github.com/jenniferlu717/SkewIT), all credit goes to the original author <sup>[1](#myfootnote1)</sup>
-3. `code/zorro.py`: filter ambiguious align region
+4. `code/zorro.py`: filter ambiguious align region
     1. This script was modified from Schwentner 2018 <sup>[2](#myfootnote2)</sup>
 
 ## Data
