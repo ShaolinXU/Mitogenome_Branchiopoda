@@ -10,7 +10,9 @@ scripts used for the mitogenome paper of Cladoceran by Shao-Lin Xu
 
 ## Data
 1. `data/Appdendix.zip`: all appdendix of this paper
-2. `data/168_OG.fa`: amino acid sequence of 168 orthologous genes in the new 'matrix-7' in the paper
+2. new 'matrix-7' data:
+    1. `data/OG_168.fa`: amino acid sequence of 168 orthologous genes in the new 'matrix-7' in the paper
+    2. `data/OG_168.partition`: the partition file of `OG_168.fasta`
 3. `data/MG15.gb`: genebank file of 15 newly assembled mitogenomes of Cladocera
 
 
