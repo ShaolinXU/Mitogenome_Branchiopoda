@@ -6,7 +6,7 @@ scripts used for the mitogenome paper of Cladoceran by Shao-Lin Xu
 2. `code/gcskwew.py`: calculate compositional statistic of dna sequence (input as fasta format)
   1. this script was modified from [SKewIT](https://github.com/jenniferlu717/SkewIT), all credit goes to the original author <sup>[1](#myfootnote1)</sup>
 4. `code/zorro.py`: filter ambiguious align region
-  1. This script was modified from Schwentner 2018 <a name="myfootnote2">2</a>:
+  1. This script was modified from Schwentner 2018 <sup>[2](#myfootnote2)</sup>
 
 ## Data
 1. `data/Appdendix.zip`: all appdendix of this paper
@@ -15,5 +15,5 @@ scripts used for the mitogenome paper of Cladoceran by Shao-Lin Xu
 
 
 # Reference
-1. <a name="myfootnote1">1</a>: Lu, Jennifer, and Steven L. Salzberg. "SkewIT: The Skew Index Test for large-scale GC Skew analysis of bacterial genomes." PLoS computational biology 16.12 (2020): e1008439.
-2. <a name="myfootnote2">2</a>: Schwentner, M., S. Richter, D. C. Rogers, and G. Giribet. 2018. Tetraconatan phylogeny with special focus on Malacostraca and Branchiopoda: highlighting the strength of taxon-specific matrices in phylogenomics. Proceedings of the Royal Society B: Biological Sciences 285:20181524.
+1. <a name="myfootnote1">1</a> Lu, Jennifer, and Steven L. Salzberg. "SkewIT: The Skew Index Test for large-scale GC Skew analysis of bacterial genomes." PLoS computational biology 16.12 (2020): e1008439.
+2. <a name="myfootnote2">2</a> Schwentner, M., S. Richter, D. C. Rogers, and G. Giribet. 2018. Tetraconatan phylogeny with special focus on Malacostraca and Branchiopoda: highlighting the strength of taxon-specific matrices in phylogenomics. Proceedings of the Royal Society B: Biological Sciences 285:20181524.
