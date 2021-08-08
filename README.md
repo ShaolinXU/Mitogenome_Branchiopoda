@@ -15,7 +15,7 @@ Xu, S. L., Han, B. P., Martínez, A., Schwentner, M., Fontaneto, D., Dumon, H. J
 2. new 'matrix-7' data:
     1. `data/OG_168.fa`: amino acid sequence of 168 orthologous genes in the new 'matrix-7' in the paper
     2. `data/OG_168.partition`: the partition file of `OG_168.fasta`
-3. `data/MG15.gb`: genebank file of 15 newly assembled mitogenomes of Cladocera
+
 
 
 # Reference
