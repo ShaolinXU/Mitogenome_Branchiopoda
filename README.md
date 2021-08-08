@@ -1,5 +1,6 @@
 # Mitogenome_Branchiopoda
-scripts used for the mitogenome paper of Cladoceran by Shao-Lin Xu
+scripts used for the mitogenome paper of Cladoceran by Shao-Lin Xu:
+Xu, S. L., Han, B. P., Martínez, A., Schwentner, M., Fontaneto, D., Dumon, H. J., & Kotov, A. A. (2021). Mitogenomics of Cladocera (Branchiopoda): marked gene order rearrangements and independent predation roots. Molecular Phylogenetics and Evolution, 107275.
 
 ## Script
 1. `code/iterative_metaspades_fishing.sh`: extend seed sequence by  iterative target assembly
